@@ -1,0 +1,31 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+
+}
+body
+{
+background-image: linear-gradient(to right top, #f861df, #ee32e5, #ee53ad, #eb126c, #e41452);
+}
+.login_div
+{
+	background-image: linear-gradient(to left top, #f1a0bb,#f57eaf,#f570a8 );
+    float: none; 
+    border-radius: 15px;
+    margin: 10px;
+}
+.logo
+{
+	width: 80px; 
+    margin-top: 30px;
+    border-radius: 40px;
+}
+.bird{
+    width: 80px;
+    border-radius: 10px;
+}
+.urname{
+    width: 40px;
+    border-radius: 20px;
+}

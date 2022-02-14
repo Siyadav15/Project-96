@@ -1,0 +1,27 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+
+}
+body
+{
+background-image: linear-gradient(to right top, #f861df, #ee32e5, #ee53ad, #eb126c, #e41452);
+}
+.logo1
+{
+	width: 80px; 
+    margin-top: 30px;
+    border-radius: 40px;
+}
+#logout{
+    margin-left: 900px;
+    width: 150px;
+    height:50px;
+    font-size: large;
+
+}
+#room_name{
+    width:500px;
+    height:50px;
+}
